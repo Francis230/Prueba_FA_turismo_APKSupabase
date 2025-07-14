@@ -117,4 +117,5 @@ await supabase.auth.signUp(
 ### Desarrolladores:
 
 - **Francis Aconda.**
+- **Marco Tapia.**
 
